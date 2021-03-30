@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <group
+        android:id="@+id/main_menu_group"
+        android:visible="false">
+        <item
+            android:id="@+id/Edit"
+            android:enabled="false"
+            android:orderInCategory="100"
+            android:title="Edit"
+            app:showAsAction="ifRoom"></item>
+        <item
+            android:id="@+id/Remove"
+            android:title="Remove"
+            android:orderInCategory="100"
+            app:showAsAction="ifRoom" >
+        </item>
+    </group>
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867487793218",
+    "project_id": "srcm-ea59c",
+    "storage_bucket": "srcm-ea59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867487793218:android:342179463e9cefca6c2ddb",
+        "android_client_info": {
+          "package_name": "com.example.smartremotecontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867487793218-rt35b0cp0cf6st80jpc88lqq9okr2t3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXvAaA-87Cxzv-CROy0XMq_428-wT5drA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867487793218-rt35b0cp0cf6st80jpc88lqq9okr2t3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
