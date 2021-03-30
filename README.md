@@ -3,7 +3,7 @@ This app is smart remote controller app where user can control devices in his/he
 TVs and ACs from their mobile regardless of the location they are at. It allows user to add as
 many devices as they want.
 
-#How the app works
+# How the app works
 The app works by connecting to a database to retrieve saved devices and display list on the
 phone user can add, remove and edit device or button name, when a user click on a device
 from the displayed devices it displays the list of buttons of this device. When a button is clicked
@@ -12,3 +12,7 @@ nodeMCU can read and send this code via IR to perform the function. When adding 
 button user puts nodeMCU in receiving mode so it can receive IR code from the device remote
 controller then user enters buttons name press ok then press the button he wants to add from
 device remote controller so that the app can read code from database and save it.
+
+ScreenShots can be found in the SRC.pdf file 
+
+Youtube video link: https://youtu.be/fILV3nfqY7k
